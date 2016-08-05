@@ -1,0 +1,14 @@
+zero
+nine
+ten
+eleven
+seventeen
+thirty-two
+eighty-eight
+ninety-nine
+one hundred
+one hundred one
+two hundred thirty-four
+three thousand two hundred eleven
+nine hundred ninety-nine thousand nine hundred ninety-nine
+one trillion
